@@ -1,0 +1,13 @@
+.container{
+    border: 2px solid green;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.box{
+    border: 1px solid brown;
+    background-color: aqua;
+    width: 50px;
+}
